@@ -1,4 +1,4 @@
-# I'm Sami
+#  I'm Sami
 
 - 🎓 MSc Artificial Intelligence graduate with Distinction.
 - 🔬 Aspiring AI researcher, looking for a PhD and questions worth chasing.
